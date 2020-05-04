@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <packageId>Mobtextingsms</packageId>
+    <Authors>satish</Authors>
+    <Company>Mobtexting</Company>
+    <Description>Dotnet module for communicating with MOBtexting enterprise Messaging and Verify Services</Description>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>
