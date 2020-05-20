@@ -1,4 +1,4 @@
-# nodejs plugin for mobtexting
+# c# plugin for mobtexting
 
 This package makes it easy to send [Mobtexting notifications](https://mobtexting.com).
 
