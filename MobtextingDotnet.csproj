@@ -1,10 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <packageId>Mobtextingsms</packageId>
+    <packageId>Mobtextingsmsplugin</packageId>
     <Authors>satish</Authors>
     <Company>Mobtexting</Company>
-    <Description>Dotnet module for communicating with MOBtexting enterprise Messaging and Verify Services</Description>
+    <PackageTags>SMS Gateway API, Global SMS API, Cloud Telephony Service, MOBtexting</PackageTags>
+    <Description>C# module for communicating with MOBtexting enterprise Messaging Services</Description>
     <RepositoryUrl>https://github.com/mobtexting/mobtexting-dotnet</RepositoryUrl>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>

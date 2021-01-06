@@ -3,6 +3,24 @@
 This package makes it easy to send [Mobtexting notifications](https://mobtexting.com).
 
 
+### Installation
+
+## using Package manager
+```
+Install-Package MobtextingSMSPlugin -Version 1.0.0
+```
+## using .NET CLI
+```
+dotnet add package MobtextingSMSPlugin --version 1.0.0
+```
+## using Package Reference
+```
+<PackageReference Include="MobtextingSMSPlugin" Version="1.0.0" />
+```
+## using Paket CLI
+```
+paket add MobtextingSMSPlugin --version 1.0.0
+```
 
 ## Usage
 
